@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Eleven Madison Park",
+    "address": "11 Madison Ave., New York 10010",
+    "website": "http://www.elevenmadisonpark.com"
+  },
+  {
+    "name": "Le Bernardin",
+    "address": "155 W. 51st St., New York 10019",
+    "website": "http://www.le-bernardin.com"
+  },
+  {
+    "name": "Per Se",
+    "address": "10 Columbus Circle, New York 10019",
+    "website": "http://www.perseny.com"
+  },
+  {
+    "name": "Masa",
+    "address": "10 Columbus Circle, New York 10019",
+    "website": "http://www.masanyc.com"
+  },
+  {
+    "name": "Quince",
+    "address": "470 Pacific Ave., San Francisco 94133",
+    "website": "http://www.quincerestaurant.com"
+  },
+  {
+    "name": "The French Laundry",
+    "address": "6640 Washington St., Yountville 94599",
+    "website": "http://www.thomaskeller.com"
+  },
+  {
+    "name": "Manresa",
+    "address": "320 Village Ln., Los Gatos 95030",
+    "website": "http://www.manresarestaurant.com"
+  },
+  {
+    "name": "The Restaurant at Meadowood",
+    "address": "900 Meadowood Ln., St. Helena 94574",
+    "website": "http://www.therestaurantatmeadowood.com"
+  },
+  {
+    "name": "Saison",
+    "address": "178 Townsend St., San Francisco 94107",
+    "website": "http://www.saisonsf.com"
+  },
+  {
+    "name": "Atelier Crenn",
+    "address": "3127 Fillmore St., San Francisco 94123",
+    "website": "http://www.ateliercrenn.com"
+  },
+  {
+    "name": "Benu",
+    "address": "22 Hawthorne St., San Francisco 94105",
+    "website": "http://www.benusf.com"
+  },
+  {
+    "name": "Chef's Table at Brooklyn Fare",
+    "address": "431 W. 37th St., New York 10018",
+    "website": "http://www.brooklynfare.com"
+  },
+  {
+    "name": "SingleThread",
+    "address": "131 North St., Healdsburg 95448",
+    "website": "http://www.singlethreadfarms.com"
+  },
+  {
+    "name": "The Inn at Little Washington",
+    "address": "309 Middle St., Washington 22747",
+    "website": "http://www.theinnatlittlewashington.com"
+  },
+  {
+    "name": "Alinea",
+    "address": "1723 N. Halsted St., Chicago 60614",
+    "website": "http://www.alinearestaurant.com"
+  }
+]

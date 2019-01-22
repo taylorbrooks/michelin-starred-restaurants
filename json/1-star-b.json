@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Keiko à Nob Hill",
+    "address": "1250 Jones St., San Francisco 94109",
+    "website": "http://www.keikoanobhill.com"
+  },
+  {
+    "name": "State Bird Provisions",
+    "address": "1529 Fillmore St., San Francisco 94115",
+    "website": "http://www.statebirdsf.com"
+  },
+  {
+    "name": "Goosefoot",
+    "address": "2656 W. Lawrence Ave., Chicago 60625",
+    "website": "http://www.goosefoot.net"
+  },
+  {
+    "name": "NoMad",
+    "address": "1170 Broadway, New York 10001",
+    "website": "http://www.thenomadhotel.com"
+  },
+  {
+    "name": "Café China",
+    "address": "13 E. 37th St., New York 10016",
+    "website": "http://www.cafechinanyc.com"
+  },
+  {
+    "name": "Casa Enríque",
+    "address": "5-48 49th Ave., Long Island City 11101",
+    "website": "http://www.henrinyc.com"
+  },
+  {
+    "name": "EL Ideas",
+    "address": "2419 W. 14th St., Chicago 60618",
+    "website": "http://www.elideas.com"
+  },
+  {
+    "name": "Caviar Russe",
+    "address": "538 Madison Ave., New York 10022",
+    "website": "http://www.caviarrusse.com"
+  },
+  {
+    "name": "Carbone",
+    "address": "181 Thompson St., New York 10003",
+    "website": "http://www.carbonenewyork.com"
+  },
+  {
+    "name": "The Musket Room",
+    "address": "265 Elizabeth St., New York 10012",
+    "website": "http://www.themusketroom.com"
+  },
+  {
+    "name": "Uncle Boons",
+    "address": "7 Spring St., New York 10012",
+    "website": "http://www.uncleboons.com"
+  },
+  {
+    "name": "ZZ's Clam Bar",
+    "address": "169 Thompson St., New York 10012",
+    "website": "http://www.zzsclambar.com"
+  },
+  {
+    "name": "Siren by RW",
+    "address": "1515 Rhode Island Ave. NW, Washington 20005",
+    "website": "http://www.sirenbyrw.com"
+  },
+  {
+    "name": "Bresca",
+    "address": "1906 14th St. NW, Washington 20000",
+    "website": "http://www.brescadc.com"
+  },
+  {
+    "name": "Temporis",
+    "address": "933 N. Ashland Ave., Chicago",
+    "website": "http://www.temporischicago.com"
+  },
+  {
+    "name": "Jeju Noodle Bar",
+    "address": "679 Greenwich St., New York 10014",
+    "website": "http://www.jejunoodlebar.com"
+  },
+  {
+    "name": "Le Grill de Joël Robuchon",
+    "address": "85 Tenth Ave., New York",
+    "website": "http://www.joelrobuchonusa.com"
+  },
+  {
+    "name": "Okuda",
+    "address": "458 W. 17th St., New York",
+    "website": "http://www.okuda.nyc"
+  },
+  {
+    "name": "Bouley at Home",
+    "address": "31 W. 21st St., New York",
+    "website": "http://www.davidbouley.com"
+  },
+  {
+    "name": "Noda",
+    "address": "6 W. 28th St., New York",
+    "website": "http://www.noda.nyc"
+  },
+  {
+    "name": "Sushi Noz",
+    "address": "181 E 78th St., New York",
+    "website": "http://www.sushinoz.com"
+  },
+  {
+    "name": "Claro",
+    "address": "284 Third Ave., New York",
+    "website": "http://www.clarobk.com"
+  },
+  {
+    "name": "Atomix",
+    "address": "104 E. 30th St., New York",
+    "website": "http://www.atomixnyc.com"
+  },
+  {
+    "name": "Oxomoco",
+    "address": "128 Greenpoint Ave., Greenpoint 11222",
+    "website": "http://www.oxomoconyc.com"
+  },
+  {
+    "name": "Entente",
+    "address": "3056 N. Lincoln Ave., Chicago 60657",
+    "website": "http://www.ententechicago.com"
+  },
+  {
+    "name": "Elske",
+    "address": "1350 W. Randolph Ave., Chicago 60607",
+    "website": "http://www.elskerestaurant.com"
+  },
+  {
+    "name": "Kenzo",
+    "address": "1339 Pearl St., Napa 94559",
+    "website": "http://www.kenzonapa.com"
+  },
+  {
+    "name": "Kinjo",
+    "address": "2206 Polk St., San Francisco 94109",
+    "website": "http://www.kinjosf.com"
+  },
+  {
+    "name": "Satsuki",
+    "address": "114 W. 47th St., New York 10036",
+    "website": "http://www.suzukinyc.com"
+  },
+  {
+    "name": "Cote",
+    "address": "16 W. 22nd St., New York 10010",
+    "website": "http://www.cotenyc.com"
+  },
+  {
+    "name": "Bar Uchū",
+    "address": "217 Eldridge St., New York 10002",
+    "website": "http://www.uchu.nyc"
+  },
+  {
+    "name": "Sushi Amane",
+    "address": "245 E. 44th St., New York 10017",
+    "website": "http://www.mifune-restaurant.com"
+  },
+  {
+    "name": "Elizabeth",
+    "address": "4835 N. Western, Unit D, Chicago 60625",
+    "website": "http://www.elizabeth-restaurant.com"
+  },
+  {
+    "name": "Rich Table",
+    "address": "199 Gough St., San Francisco 94102",
+    "website": "http://www.richtablesf.com"
+  },
+  {
+    "name": "Sushi Nakazawa",
+    "address": "23 Commerce St., New York 10014",
+    "website": "http://www.sushinakazawa.com"
+  },
+  {
+    "name": "Contra",
+    "address": "138 Orchard St., New York 10002",
+    "website": "http://www.contranyc.com"
+  },
+  {
+    "name": "Hirohisa",
+    "address": "73 Thompson St., New York 10012",
+    "website": "http://www.hirohisa-nyc.com"
+  },
+  {
+    "name": "The River Café",
+    "address": "1 Water St., Brooklyn 11201",
+    "website": "http://www.therivercafe.com"
+  },
+  {
+    "name": "Bâtard",
+    "address": "239 West Broadway, New York 10013",
+    "website": "http://www.batardtribeca.com"
+  },
+  {
+    "name": "Meadowsweet",
+    "address": "149 Broadway, Brooklyn 11212",
+    "website": "http://www.meadowsweetnyc.com"
+  },
+  {
+    "name": "Kin Khao",
+    "address": "55 Cyril Magnin St., San Francisco 94102",
+    "website": "http://www.kinkhao.com"
+  },
+  {
+    "name": "Wako",
+    "address": "211 Clement St., San Francisco 94118",
+    "website": "http://www.sushiwakosf.com"
+  },
+  {
+    "name": "Dusek's (Board & Beer)",
+    "address": "1227 W. 18th St., Chicago 60608",
+    "website": "http://www.dusekschicago.com"
+  },
+  {
+    "name": "Parachute",
+    "address": "3500 N. Elston Ave., Chicago 60618",
+    "website": "http://www.parachuterestaurant.com"
+  },
+  {
+    "name": "The Clocktower",
+    "address": "5 Madison Ave., New York 10010",
+    "website": "http://www.theclocktowernyc.com"
+  },
+  {
+    "name": "Tuome",
+    "address": "536 E. 5th St., New York 10009",
+    "website": "http://www.tuomenyc.com"
+  },
+  {
+    "name": "Faro",
+    "address": "436 Jefferson St., Brooklyn 11237",
+    "website": "http://www.farobk.com"
+  },
+  {
+    "name": "The Finch",
+    "address": "212 Greene Ave., Brooklyn 11238",
+    "website": "http://www.thefinchnyc.com"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Daniel",
+    "address": "60 E. 65th St., New York 10065",
+    "website": "http://www.danielnyc.com"
+  },
+  {
+    "name": "Aquavit",
+    "address": "65 E. 55th St., New York 10022",
+    "website": "http://www.aquavit.org"
+  },
+  {
+    "name": "Jean-Georges",
+    "address": "1 Central Park West, New York 10023",
+    "website": "http://www.jean-georgesrestaurant.com"
+  },
+  {
+    "name": "The Modern",
+    "address": "9 W. 53rd St., New York 10019",
+    "website": "http://www.themodernnyc.com"
+  },
+  {
+    "name": "Acquerello",
+    "address": "1722 Sacramento St., San Francisco 94109",
+    "website": "http://www.acquerello.com"
+  },
+  {
+    "name": "Coi",
+    "address": "373 Broadway, San Francisco 94133",
+    "website": "http://www.coirestaurant.com"
+  },
+  {
+    "name": "Ko",
+    "address": "8 Extra Pl., New York 10003",
+    "website": "http://www.momofuku.com"
+  },
+  {
+    "name": "Marea",
+    "address": "240 Central Park South, New York 10019",
+    "website": "http://www.marea-nyc.com"
+  },
+  {
+    "name": "Commis",
+    "address": "3859 Piedmont Ave., Oakland 94601",
+    "website": "http://www.commisrestaurant.com"
+  },
+  {
+    "name": "Baumé",
+    "address": "201 S. California Ave., Palo Alto 94306",
+    "website": "http://www.maisonbaume.com"
+  },
+  {
+    "name": "Jungsik",
+    "address": "2 Harrison St., New York 10013",
+    "website": "http://www.jungsik.com"
+  },
+  {
+    "name": "Acadia",
+    "address": "1639 S. Wabash Ave., Chicago 60616",
+    "website": "http://www.acadiachicago.com"
+  },
+  {
+    "name": "Atera",
+    "address": "77 Worth St., New York 10013",
+    "website": "http://www.ateranyc.com"
+  },
+  {
+    "name": "Blanca",
+    "address": "261 Moore St., Brooklyn 11206",
+    "website": "http://www.blancanyc.com"
+  },
+  {
+    "name": "Ichimura at Uchū",
+    "address": "217 Eldridge St., New York 10002",
+    "website": "http://www.uchu.nyc"
+  },
+  {
+    "name": "L'Atelier de Joël Robuchon",
+    "address": "85 Tenth Ave., New York",
+    "website": "http://www.joelrobuchonusa.com"
+  },
+  {
+    "name": "Tetsu Basement",
+    "address": "78 Leonard St., New York",
+    "website": "http://www.tetsunyc.com"
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "address": "41 W. 42nd St., New York 10036",
+    "website": "http://www.gknyc.com"
+  },
+  {
+    "name": "Californios",
+    "address": "3115 22nd St., San Francisco 94110",
+    "website": "http://www.californiossf.com"
+  },
+  {
+    "name": "Lazy Bear",
+    "address": "3416 19th St., San Francisco 94110",
+    "website": "http://www.lazybearsf.com"
+  },
+  {
+    "name": "minibar",
+    "address": "855 E St. NW, Washington 20004",
+    "website": "http://www.minibarbyjoseandres.com"
+  },
+  {
+    "name": "Pineapple and Pearls",
+    "address": "715 8th St. SE, Washington 20003",
+    "website": "http://www.pineappleandpearls.com"
+  },
+  {
+    "name": "Oriole",
+    "address": "661 W. Walnut St., Chicago 60661",
+    "website": "http://www.oriolechicago.com"
+  },
+  {
+    "name": "Smyth",
+    "address": "177 N. Ada St., Chicago 60607",
+    "website": "http://www.smythandtheloyalist.com"
+  },
+  {
+    "name": "Sushi Ginza Onodera",
+    "address": "461 Fifth Ave., New York 10017",
+    "website": "http://onodera-group.com"
+  },
+  {
+    "name": "Aska",
+    "address": "47 S. 5th St., Brooklyn 11249",
+    "website": "http://www.askanyc.com"
+  }
+]

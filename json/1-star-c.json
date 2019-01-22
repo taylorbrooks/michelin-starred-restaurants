@@ -1,0 +1,172 @@
+[
+  {
+    "name": "Tempura Matsui",
+    "address": "222 E. 39th St., New York 10158",
+    "website": "http://www.tempuramatsui.com"
+  },
+  {
+    "name": "Aster",
+    "address": "1001 Guerrero St., San Francisco 94110",
+    "website": "http://www.astersf.com"
+  },
+  {
+    "name": "The Progress",
+    "address": "1525 Fillmore St., San Francisco 94115",
+    "website": "http://www.theprogress-sf.com"
+  },
+  {
+    "name": "Lord Stanley",
+    "address": "2065 Polk St., San Francisco 94109",
+    "website": "http://www.lordstanleysf.com"
+  },
+  {
+    "name": "Sushi Yoshizumi",
+    "address": "325 E. 4th Ave., San Mateo 94401",
+    "website": "http://www.sushiyoshizumi.com"
+  },
+  {
+    "name": "Al's Place",
+    "address": "1499 Valencia St., San Francisco 94110",
+    "website": "http://www.alsplacesf.com"
+  },
+  {
+    "name": "Octavia",
+    "address": "1701 Octavia St., San Francisco 94109",
+    "website": "http://www.octavia-sf.com"
+  },
+  {
+    "name": "Omakase",
+    "address": "665 Townsend St., San Francisco 94103",
+    "website": "http://www.omakasesf.com"
+  },
+  {
+    "name": "Rasa",
+    "address": "209 Park Rd., Burlingame 94010",
+    "website": "http://www.rasaindian.com"
+  },
+  {
+    "name": "Mourad",
+    "address": "140 New Montgomery St., San Francisco 94105",
+    "website": "http://www.mouradsf.com"
+  },
+  {
+    "name": "Blue Duck Tavern",
+    "address": "1201 24th St. NW, Washington 20037",
+    "website": "http://www.blueducktavern.com"
+  },
+  {
+    "name": "Fiola",
+    "address": "601 Pennsylvania Ave. NW, Washington 20004",
+    "website": "http://www.fioladc.com"
+  },
+  {
+    "name": "Kinship",
+    "address": "1015 7th St. NW, Washington 20001",
+    "website": "http://www.kinshipdc.com"
+  },
+  {
+    "name": "Komi",
+    "address": "1509 17th St. NW, Washington 20036",
+    "website": "http://www.komirestaurant.com"
+  },
+  {
+    "name": "Masseria",
+    "address": "1340 4th St. NE, Washington 20002",
+    "website": "http://www.masseria-dc.com"
+  },
+  {
+    "name": "Plume",
+    "address": "1200 16th St. NW, Washington 20036",
+    "website": "http://www.plumedc.com"
+  },
+  {
+    "name": "Rose's Luxury",
+    "address": "717 8th St. SE, Washington 20003",
+    "website": "http://www.rosesluxury.com"
+  },
+  {
+    "name": "Sushi Taro",
+    "address": "1503 17th St. NW, Washington 20036",
+    "website": "http://www.sushitaro.com"
+  },
+  {
+    "name": "Tail Up Goat",
+    "address": "1827 Adams Mill Rd. NW, Washington 20009",
+    "website": "http://www.tailupgoat.com"
+  },
+  {
+    "name": "Métier",
+    "address": "1015 7th St. NW, Washington 20001",
+    "website": "http://www.metierdc.com"
+  },
+  {
+    "name": "The Dabney",
+    "address": "122 Blagden Alley NW, Washington 20001",
+    "website": "http://www.thedabney.com"
+  },
+  {
+    "name": "jū-ni",
+    "address": "1335 Fulton St., San Francisco 94117",
+    "website": "http://www.junisf.com"
+  },
+  {
+    "name": "Mister Jiu's",
+    "address": "28 Waverly Pl., San Francisco 94108",
+    "website": "http://www.misterjius.com"
+  },
+  {
+    "name": "Hashiri",
+    "address": "4 Mint Plaza, San Francisco 94103",
+    "website": "http://www.hashirisf.com"
+  },
+  {
+    "name": "In Situ",
+    "address": "151 Third St., San Francisco 94103",
+    "website": "http://insitu.sfmoma.org"
+  },
+  {
+    "name": "Band of Bohemia",
+    "address": "4710 N. Ravenswood Ave., Chicago 60640",
+    "website": "http://www.bandofbohemia.com"
+  },
+  {
+    "name": "Roister",
+    "address": "951 W. Fulton Market, Chicago 60607",
+    "website": "http://www.roisterrestaurant.com"
+  },
+  {
+    "name": "Nix",
+    "address": "72 University Pl., New York 10003",
+    "website": "http://www.nixny.com"
+  },
+  {
+    "name": "Agern",
+    "address": "89 E. 42nd St., New York 10017",
+    "website": "http://www.agernrestaurant.com"
+  },
+  {
+    "name": "L'Appart",
+    "address": "225 Liberty St., New York 10281",
+    "website": "http://www.lappartnyc.com"
+  },
+  {
+    "name": "Günter Seeger NY",
+    "address": "641 Hudson St., New York 10014",
+    "website": "http://www.gunterseegerny.com"
+  },
+  {
+    "name": "Kosaka",
+    "address": "220 W. 13th St., New York 10011",
+    "website": "http://www.kosakanyc.com"
+  },
+  {
+    "name": "Sushi Inoue",
+    "address": "381 Lenox Ave., New York 10027",
+    "website": "http://www.sushiinoue.com"
+  },
+  {
+    "name": "Le Coucou",
+    "address": "138 Lafayette St., New York 10013",
+    "website": "http://www.lecoucou.com"
+  }
+]

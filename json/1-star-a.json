@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Peter Luger",
+    "address": "178 Broadway, New York 11211",
+    "website": "http://www.peterluger.com"
+  },
+  {
+    "name": "Kanoyama",
+    "address": "175 Second Ave., New York 10003",
+    "website": "http://www.kanoyama.com"
+  },
+  {
+    "name": "Gotham Bar and Grill",
+    "address": "12 E. 12th St., New York 10003",
+    "website": "http://www.gothambarandgrill.com"
+  },
+  {
+    "name": "Babbo",
+    "address": "110 Waverly Pl., New York 10011",
+    "website": "http://www.babbonyc.com"
+  },
+  {
+    "name": "Café Boulud",
+    "address": "20 E. 76th St., New York 10021",
+    "website": "http://www.cafeboulud.com"
+  },
+  {
+    "name": "Casa Mono",
+    "address": "52 Irving Pl., New York 10003",
+    "website": "http://www.casamononyc.com"
+  },
+  {
+    "name": "Madcap",
+    "address": "198 Sir Francis Drake Blvd., San Anselmo 94960",
+    "website": "http://www.madcapmarin.com"
+  },
+  {
+    "name": "Nico",
+    "address": "710 Montgomery St., Bernal Heights 94110",
+    "website": "http://www.nicosf.com"
+  },
+  {
+    "name": "Birdsong",
+    "address": "1085 Mission St., San Francisco 94101",
+    "website": "http://www.birdsongsf.com"
+  },
+  {
+    "name": "Protégé",
+    "address": "250 California Ave., Palo Alto Orchards 94306",
+    "website": "http://www.protogepaloalto.com"
+  },
+  {
+    "name": "Bar Crenn",
+    "address": "3131 Fillmore St., Cow Hollow 94123",
+    "website": "http://www.barcrenn.com"
+  },
+  {
+    "name": "Sushi Yasuda",
+    "address": "204 E. 43rd St., New York 10017",
+    "website": "http://www.sushiyasuda.com"
+  },
+  {
+    "name": "Wallsé",
+    "address": "344 W. 11th St., New York 10014",
+    "website": "http://www.kurtgutenbrunner.com"
+  },
+  {
+    "name": "Blue Hill",
+    "address": "75 Washington Pl., New York 10011",
+    "website": "http://www.bluehillfarm.com"
+  },
+  {
+    "name": "Gramercy Tavern",
+    "address": "42 E. 20th St., New York 10003",
+    "website": "http://www.gramercytavern.com"
+  },
+  {
+    "name": "Jewel Bako",
+    "address": "239 E. 5th St., New York 10003",
+    "website": "http://www.jewelbakosushi.com"
+  },
+  {
+    "name": "Auberge du Soleil",
+    "address": "180 Rutherford Hill Rd., Rutherford 94573",
+    "website": "http://www.aubergedusoleil.com"
+  },
+  {
+    "name": "La Toque",
+    "address": "1314 McKinstry St., Rutherford 94573",
+    "website": "http://www.latoque.com"
+  },
+  {
+    "name": "Campton Place",
+    "address": "340 Stockton St., San Francisco 94108",
+    "website": "http://www.camptonplacesf.com"
+  },
+  {
+    "name": "Gary Danko",
+    "address": "800 North Point St., San Francisco 94109",
+    "website": "http://www.garydanko.com"
+  },
+  {
+    "name": "Bouchon",
+    "address": "6534 Washington St., Yountville 94599",
+    "website": "http://www.thomaskeller.com"
+  },
+  {
+    "name": "Farmhouse Inn & Restaurant",
+    "address": "7871 River Rd., Forestville 95436",
+    "website": "http://www.farmhouseinn.com"
+  },
+  {
+    "name": "Chez TJ",
+    "address": "938 Villa St., Mountain View 94041",
+    "website": "http://www.cheztj.com"
+  },
+  {
+    "name": "Plumed Horse",
+    "address": "14555 Big Basin Way, Saratoga 95070",
+    "website": "http://www.plumedhorse.com"
+  },
+  {
+    "name": "The Village Pub",
+    "address": "2967 Woodside Rd., Woodside 94062",
+    "website": "http://www.thevillagepub.net"
+  },
+  {
+    "name": "Del Posto",
+    "address": "85 Tenth Ave., New York 10011",
+    "website": "http://www.delposto.com"
+  },
+  {
+    "name": "Madrona Manor",
+    "address": "1001 Westside Rd., Healdsburg 95448",
+    "website": "http://www.madronamanor.com"
+  },
+  {
+    "name": "Kyo Ya",
+    "address": "94 E. 7th St., New York 10009",
+    "website": "+12129824140"
+  },
+  {
+    "name": "SPQR",
+    "address": "1911 Fillmore St., San Francisco 94115",
+    "website": "http://www.spqrsf.com"
+  },
+  {
+    "name": "Spruce",
+    "address": "3640 Sacramento St., San Francisco 94118",
+    "website": "http://www.sprucesf.com"
+  },
+  {
+    "name": "Luce",
+    "address": "888 Howard St., San Francisco 94103",
+    "website": "http://www.lucewinerestaurant.com"
+  },
+  {
+    "name": "Kajitsu",
+    "address": "125 E. 39th St., New York 10016",
+    "website": "http://www.kajitsunyc.com"
+  },
+  {
+    "name": "Aldea",
+    "address": "31 W. 17th St., New York 10011",
+    "website": "http://www.aldearestaurant.com"
+  },
+  {
+    "name": "Madera",
+    "address": "2825 Sand Hill Rd., Menlo Park 94025",
+    "website": "http://www.maderasandhill.com"
+  },
+  {
+    "name": "Boka",
+    "address": "1729 N. Halsted St., Chicago 60614",
+    "website": "http://www.bokachicago.com"
+  },
+  {
+    "name": "Schwa",
+    "address": "1466 N. Ashland Ave., Chicago 60662",
+    "website": "http://www.schwarestaurant.com"
+  },
+  {
+    "name": "Topolobampo",
+    "address": "445 N. Clark St., Chicago 60654",
+    "website": "http://www.rickbayless.com"
+  },
+  {
+    "name": "North Pond",
+    "address": "2610 N. Cannon Dr., Chicago 60614",
+    "website": "http://www.northpondrestaurant.com"
+  },
+  {
+    "name": "Everest",
+    "address": "440 S. LaSalle St., Chicago 60605",
+    "website": "http://www.everestrestaurant.com"
+  },
+  {
+    "name": "Blackbird",
+    "address": "619 W. Randolph St., Chicago 60661",
+    "website": "http://www.blackbirdrestaurant.com"
+  },
+  {
+    "name": "Sepia",
+    "address": "123 N. Jefferson St., Chicago 60661",
+    "website": "http://www.sepiachicago.com"
+  },
+  {
+    "name": "Spiaggia",
+    "address": "980 N. Michigan Ave., Chicago 60611",
+    "website": "http://www.spiaggiarestaurant.com"
+  },
+  {
+    "name": "Wakuriya",
+    "address": "115 De Anza Blvd., San Mateo 94402",
+    "website": "http://www.wakuriya.com"
+  },
+  {
+    "name": "Sons & Daughters",
+    "address": "708 Bush St., San Francisco 94108",
+    "website": "http://www.sonsanddaughterssf.com"
+  },
+  {
+    "name": "Michael Mina",
+    "address": "252 California St., San Francisco 94102",
+    "website": "http://www.michaelmina.net"
+  },
+  {
+    "name": "Commonwealth",
+    "address": "2224 Mission St., San Francisco 94110",
+    "website": "http://www.commonwealthsf.com"
+  },
+  {
+    "name": "Junoon",
+    "address": "27 W. 24th St., New York 10010",
+    "website": "http://www.junoonnyc.com"
+  },
+  {
+    "name": "Ai Fiori",
+    "address": "400 Fifth Ave., New York 10018",
+    "website": "http://www.aifiorinyc.com"
+  }
+]
